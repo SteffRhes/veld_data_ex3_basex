@@ -1,0 +1,4 @@
+x-veld:
+  data:
+    type: "BaseX database"
+    path: "./db_data"
