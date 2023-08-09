@@ -1,4 +1,7 @@
 x-veld:
   data:
-    type: "BaseX database"
-    path: "./db_data"
+    about:
+      description: "example veld for testing and showcasing"
+    format: "BaseX Storage"
+    content: "dummy data"
+    path: ./db_data/
